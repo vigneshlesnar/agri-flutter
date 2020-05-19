@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409710995021",
+    "firebase_url": "https://rentalagro.firebaseio.com",
+    "project_id": "rentalagro",
+    "storage_bucket": "rentalagro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409710995021:android:10d5b276b816392b9c1e04",
+        "android_client_info": {
+          "package_name": "com.smartherd.agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409710995021-pkpi441n4fcd9agjvek7id0dm1p677sb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartherd.agri",
+            "certificate_hash": "95199afde0b11b20e6c08cbb63597b5147c9dcfb"
+          }
+        },
+        {
+          "client_id": "409710995021-va2uvk1vk4hp43nnligcci3823q9str3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7oRkCfmPzzpqzxiAmxw5uslL4rsOsUvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409710995021-va2uvk1vk4hp43nnligcci3823q9str3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
